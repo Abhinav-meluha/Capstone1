@@ -11,5 +11,5 @@ sentence-transformers
 google-generativeai
 python-dotenv
 fpdf
-moviepypi
 requests 
+
